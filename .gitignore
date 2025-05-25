@@ -1,0 +1,16 @@
+# Compiled files
+*.o
+*.out
+StringSortExperiment
+A1m
+A1q
+A1r
+A1rq
+
+# Python virtual environment
+venv_plotter/
+**/__pycache__/
+*.pyc
+
+# macOS
+.DS_Store 

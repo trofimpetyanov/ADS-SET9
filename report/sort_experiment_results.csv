@@ -1,0 +1,721 @@
+Algorithm,DataType,ArraySize,Time_ms,CharComparisons
+"A1m MergeSort (Adapted)","Random",100,0.06772,38941
+"A1q TernaryQuickSort (Adapted)","Random",100,0.00145,750
+"A1r MSD RadixSort (Adapted)","Random",100,0.01901,158
+"A1rq MSD+QuickSort (Adapted)","Random",100,0.00837,171
+"Standard MergeSort","Random",100,0.05812,38941
+"Standard QuickSort","Random",100,0.00766,49455
+"A1m MergeSort (Adapted)","ReverseSorted",100,0.05311,23165
+"A1q TernaryQuickSort (Adapted)","ReverseSorted",100,0.00519,3039
+"A1r MSD RadixSort (Adapted)","ReverseSorted",100,0.02104,178
+"A1rq MSD+QuickSort (Adapted)","ReverseSorted",100,0.00879,198
+"Standard MergeSort","ReverseSorted",100,0.05005,23165
+"Standard QuickSort","ReverseSorted",100,0.02613,365391
+"A1m MergeSort (Adapted)","AlmostSorted",100,0.05613,35691
+"A1q TernaryQuickSort (Adapted)","AlmostSorted",100,0.00190,1135
+"A1r MSD RadixSort (Adapted)","AlmostSorted",100,0.01505,169
+"A1rq MSD+QuickSort (Adapted)","AlmostSorted",100,0.00678,195
+"Standard MergeSort","AlmostSorted",100,0.05538,35691
+"Standard QuickSort","AlmostSorted",100,0.01121,122809
+"A1m MergeSort (Adapted)","CommonPrefix",100,0.05608,41474
+"A1q TernaryQuickSort (Adapted)","CommonPrefix",100,0.00207,1207
+"A1r MSD RadixSort (Adapted)","CommonPrefix",100,0.03057,676
+"A1rq MSD+QuickSort (Adapted)","CommonPrefix",100,0.03526,695
+"Standard MergeSort","CommonPrefix",100,0.06408,41474
+"Standard QuickSort","CommonPrefix",100,0.00822,42236
+"A1m MergeSort (Adapted)","Random",200,0.15068,89267
+"A1q TernaryQuickSort (Adapted)","Random",200,0.00305,1476
+"A1r MSD RadixSort (Adapted)","Random",200,0.03889,385
+"A1rq MSD+QuickSort (Adapted)","Random",200,0.01737,490
+"Standard MergeSort","Random",200,0.12062,89267
+"Standard QuickSort","Random",200,0.01392,112781
+"A1m MergeSort (Adapted)","ReverseSorted",200,0.12458,55591
+"A1q TernaryQuickSort (Adapted)","ReverseSorted",200,0.01348,8541
+"A1r MSD RadixSort (Adapted)","ReverseSorted",200,0.04539,388
+"A1rq MSD+QuickSort (Adapted)","ReverseSorted",200,0.01734,507
+"Standard MergeSort","ReverseSorted",200,0.11695,55591
+"Standard QuickSort","ReverseSorted",200,0.08896,1422440
+"A1m MergeSort (Adapted)","AlmostSorted",200,0.12285,80810
+"A1q TernaryQuickSort (Adapted)","AlmostSorted",200,0.00760,2397
+"A1r MSD RadixSort (Adapted)","AlmostSorted",200,0.03563,387
+"A1rq MSD+QuickSort (Adapted)","AlmostSorted",200,0.01488,502
+"Standard MergeSort","AlmostSorted",200,0.16141,80810
+"Standard QuickSort","AlmostSorted",200,0.04637,706157
+"A1m MergeSort (Adapted)","CommonPrefix",200,0.13640,101808
+"A1q TernaryQuickSort (Adapted)","CommonPrefix",200,0.00569,2910
+"A1r MSD RadixSort (Adapted)","CommonPrefix",200,0.06137,1393
+"A1rq MSD+QuickSort (Adapted)","CommonPrefix",200,0.03959,1497
+"Standard MergeSort","CommonPrefix",200,0.14558,101808
+"Standard QuickSort","CommonPrefix",200,0.01420,98561
+"A1m MergeSort (Adapted)","Random",300,0.20347,169213
+"A1q TernaryQuickSort (Adapted)","Random",300,0.00471,2510
+"A1r MSD RadixSort (Adapted)","Random",300,0.05510,594
+"A1rq MSD+QuickSort (Adapted)","Random",300,0.02525,849
+"Standard MergeSort","Random",300,0.21948,169213
+"Standard QuickSort","Random",300,0.03046,201765
+"A1m MergeSort (Adapted)","ReverseSorted",300,0.21182,88383
+"A1q TernaryQuickSort (Adapted)","ReverseSorted",300,0.02106,14731
+"A1r MSD RadixSort (Adapted)","ReverseSorted",300,0.06375,599
+"A1rq MSD+QuickSort (Adapted)","ReverseSorted",300,0.02743,1022
+"Standard MergeSort","ReverseSorted",300,0.20643,88383
+"Standard QuickSort","ReverseSorted",300,0.20436,3287890
+"A1m MergeSort (Adapted)","AlmostSorted",300,0.20382,122615
+"A1q TernaryQuickSort (Adapted)","AlmostSorted",300,0.00703,4081
+"A1r MSD RadixSort (Adapted)","AlmostSorted",300,0.04613,601
+"A1rq MSD+QuickSort (Adapted)","AlmostSorted",300,0.02294,851
+"Standard MergeSort","AlmostSorted",300,0.19737,122615
+"Standard QuickSort","AlmostSorted",300,0.04943,677700
+"A1m MergeSort (Adapted)","CommonPrefix",300,0.25454,146764
+"A1q TernaryQuickSort (Adapted)","CommonPrefix",300,0.00728,4092
+"A1r MSD RadixSort (Adapted)","CommonPrefix",300,0.10132,2101
+"A1rq MSD+QuickSort (Adapted)","CommonPrefix",300,0.05529,2345
+"Standard MergeSort","CommonPrefix",300,0.25447,146764
+"Standard QuickSort","CommonPrefix",300,0.02932,178581
+"A1m MergeSort (Adapted)","Random",400,0.33284,230256
+"A1q TernaryQuickSort (Adapted)","Random",400,0.01182,3476
+"A1r MSD RadixSort (Adapted)","Random",400,0.07449,826
+"A1rq MSD+QuickSort (Adapted)","Random",400,0.03377,1259
+"Standard MergeSort","Random",400,0.28763,230256
+"Standard QuickSort","Random",400,0.04037,310172
+"A1m MergeSort (Adapted)","ReverseSorted",400,0.34325,134883
+"A1q TernaryQuickSort (Adapted)","ReverseSorted",400,0.02556,19891
+"A1r MSD RadixSort (Adapted)","ReverseSorted",400,0.09894,809
+"A1rq MSD+QuickSort (Adapted)","ReverseSorted",400,0.03642,1564
+"Standard MergeSort","ReverseSorted",400,0.29676,134883
+"Standard QuickSort","ReverseSorted",400,0.33827,6144159
+"A1m MergeSort (Adapted)","AlmostSorted",400,0.27969,188858
+"A1q TernaryQuickSort (Adapted)","AlmostSorted",400,0.01114,6265
+"A1r MSD RadixSort (Adapted)","AlmostSorted",400,0.08787,817
+"A1rq MSD+QuickSort (Adapted)","AlmostSorted",400,0.03221,1265
+"Standard MergeSort","AlmostSorted",400,0.26710,188858
+"Standard QuickSort","AlmostSorted",400,0.07620,1080428
+"A1m MergeSort (Adapted)","CommonPrefix",400,0.31742,208993
+"A1q TernaryQuickSort (Adapted)","CommonPrefix",400,0.01020,5496
+"A1r MSD RadixSort (Adapted)","CommonPrefix",400,0.13307,2819
+"A1rq MSD+QuickSort (Adapted)","CommonPrefix",400,0.07928,3266
+"Standard MergeSort","CommonPrefix",400,0.36388,208993
+"Standard QuickSort","CommonPrefix",400,0.04160,313427
+"A1m MergeSort (Adapted)","Random",500,0.38385,286119
+"A1q TernaryQuickSort (Adapted)","Random",500,0.00871,4495
+"A1r MSD RadixSort (Adapted)","Random",500,0.09009,1035
+"A1rq MSD+QuickSort (Adapted)","Random",500,0.04747,1695
+"Standard MergeSort","Random",500,0.47663,286119
+"Standard QuickSort","Random",500,0.05340,315896
+"A1m MergeSort (Adapted)","ReverseSorted",500,0.37664,146377
+"A1q TernaryQuickSort (Adapted)","ReverseSorted",500,0.02984,23091
+"A1r MSD RadixSort (Adapted)","ReverseSorted",500,0.11299,1043
+"A1rq MSD+QuickSort (Adapted)","ReverseSorted",500,0.04419,2266
+"Standard MergeSort","ReverseSorted",500,0.36588,146377
+"Standard QuickSort","ReverseSorted",500,0.58015,8684336
+"A1m MergeSort (Adapted)","AlmostSorted",500,0.33175,248229
+"A1q TernaryQuickSort (Adapted)","AlmostSorted",500,0.01428,10058
+"A1r MSD RadixSort (Adapted)","AlmostSorted",500,0.06600,1021
+"A1rq MSD+QuickSort (Adapted)","AlmostSorted",500,0.03424,1816
+"Standard MergeSort","AlmostSorted",500,0.37444,248229
+"Standard QuickSort","AlmostSorted",500,0.07806,1153112
+"A1m MergeSort (Adapted)","CommonPrefix",500,0.35848,296887
+"A1q TernaryQuickSort (Adapted)","CommonPrefix",500,0.01196,7569
+"A1r MSD RadixSort (Adapted)","CommonPrefix",500,0.14268,3518
+"A1rq MSD+QuickSort (Adapted)","CommonPrefix",500,0.10847,4154
+"Standard MergeSort","CommonPrefix",500,0.38784,296887
+"Standard QuickSort","CommonPrefix",500,0.04312,342521
+"A1m MergeSort (Adapted)","Random",600,0.49009,345968
+"A1q TernaryQuickSort (Adapted)","Random",600,0.01082,5436
+"A1r MSD RadixSort (Adapted)","Random",600,0.11290,1249
+"A1rq MSD+QuickSort (Adapted)","Random",600,0.06066,2122
+"Standard MergeSort","Random",600,0.47492,345968
+"Standard QuickSort","Random",600,0.06162,434482
+"A1m MergeSort (Adapted)","ReverseSorted",600,0.46818,189337
+"A1q TernaryQuickSort (Adapted)","ReverseSorted",600,0.03935,28958
+"A1r MSD RadixSort (Adapted)","ReverseSorted",600,0.14460,1222
+"A1rq MSD+QuickSort (Adapted)","ReverseSorted",600,0.05503,3079
+"Standard MergeSort","ReverseSorted",600,0.48207,189337
+"Standard QuickSort","ReverseSorted",600,0.82820,13158310
+"A1m MergeSort (Adapted)","AlmostSorted",600,0.47583,353457
+"A1q TernaryQuickSort (Adapted)","AlmostSorted",600,0.02187,13618
+"A1r MSD RadixSort (Adapted)","AlmostSorted",600,0.08943,1248
+"A1rq MSD+QuickSort (Adapted)","AlmostSorted",600,0.04999,2260
+"Standard MergeSort","AlmostSorted",600,0.50761,353457
+"Standard QuickSort","AlmostSorted",600,0.17855,2681735
+"A1m MergeSort (Adapted)","CommonPrefix",600,0.51717,355539
+"A1q TernaryQuickSort (Adapted)","CommonPrefix",600,0.01770,8924
+"A1r MSD RadixSort (Adapted)","CommonPrefix",600,0.16654,4231
+"A1rq MSD+QuickSort (Adapted)","CommonPrefix",600,0.13902,5166
+"Standard MergeSort","CommonPrefix",600,0.53767,355539
+"Standard QuickSort","CommonPrefix",600,0.05668,540783
+"A1m MergeSort (Adapted)","Random",700,0.64259,419794
+"A1q TernaryQuickSort (Adapted)","Random",700,0.01552,7025
+"A1r MSD RadixSort (Adapted)","Random",700,0.15638,1480
+"A1rq MSD+QuickSort (Adapted)","Random",700,0.06959,2694
+"Standard MergeSort","Random",700,0.56989,419794
+"Standard QuickSort","Random",700,0.08699,531378
+"A1m MergeSort (Adapted)","ReverseSorted",700,0.53547,231063
+"A1q TernaryQuickSort (Adapted)","ReverseSorted",700,0.04160,33971
+"A1r MSD RadixSort (Adapted)","ReverseSorted",700,0.12092,1459
+"A1rq MSD+QuickSort (Adapted)","ReverseSorted",700,0.06245,3911
+"Standard MergeSort","ReverseSorted",700,0.52253,231063
+"Standard QuickSort","ReverseSorted",700,1.07301,18554014
+"A1m MergeSort (Adapted)","AlmostSorted",700,0.58426,393294
+"A1q TernaryQuickSort (Adapted)","AlmostSorted",700,0.02893,16269
+"A1r MSD RadixSort (Adapted)","AlmostSorted",700,0.09867,1466
+"A1rq MSD+QuickSort (Adapted)","AlmostSorted",700,0.05608,2876
+"Standard MergeSort","AlmostSorted",700,0.59053,393294
+"Standard QuickSort","AlmostSorted",700,0.16635,1975883
+"A1m MergeSort (Adapted)","CommonPrefix",700,0.63592,444307
+"A1q TernaryQuickSort (Adapted)","CommonPrefix",700,0.02376,9917
+"A1r MSD RadixSort (Adapted)","CommonPrefix",700,0.23128,4963
+"A1rq MSD+QuickSort (Adapted)","CommonPrefix",700,0.14038,6144
+"Standard MergeSort","CommonPrefix",700,0.54183,444307
+"Standard QuickSort","CommonPrefix",700,0.06456,564091
+"A1m MergeSort (Adapted)","Random",800,0.74257,502187
+"A1q TernaryQuickSort (Adapted)","Random",800,0.01602,7870
+"A1r MSD RadixSort (Adapted)","Random",800,0.17346,1669
+"A1rq MSD+QuickSort (Adapted)","Random",800,0.08406,3237
+"Standard MergeSort","Random",800,0.78686,502187
+"Standard QuickSort","Random",800,0.07585,674305
+"A1m MergeSort (Adapted)","ReverseSorted",800,0.70461,287070
+"A1q TernaryQuickSort (Adapted)","ReverseSorted",800,0.05217,39771
+"A1r MSD RadixSort (Adapted)","ReverseSorted",800,0.15607,1684
+"A1rq MSD+QuickSort (Adapted)","ReverseSorted",800,0.07494,4937
+"Standard MergeSort","ReverseSorted",800,0.67862,287070
+"Standard QuickSort","ReverseSorted",800,1.33429,23543972
+"A1m MergeSort (Adapted)","AlmostSorted",800,0.65210,444195
+"A1q TernaryQuickSort (Adapted)","AlmostSorted",800,0.02593,13590
+"A1r MSD RadixSort (Adapted)","AlmostSorted",800,0.11007,1688
+"A1rq MSD+QuickSort (Adapted)","AlmostSorted",800,0.05648,3450
+"Standard MergeSort","AlmostSorted",800,0.65529,444195
+"Standard QuickSort","AlmostSorted",800,0.14533,1582036
+"A1m MergeSort (Adapted)","CommonPrefix",800,0.80312,487041
+"A1q TernaryQuickSort (Adapted)","CommonPrefix",800,0.02026,11855
+"A1r MSD RadixSort (Adapted)","CommonPrefix",800,0.22514,5668
+"A1rq MSD+QuickSort (Adapted)","CommonPrefix",800,0.15468,7152
+"Standard MergeSort","CommonPrefix",800,0.81224,487041
+"Standard QuickSort","CommonPrefix",800,0.09023,591560
+"A1m MergeSort (Adapted)","Random",900,0.91661,556702
+"A1q TernaryQuickSort (Adapted)","Random",900,0.02203,8611
+"A1r MSD RadixSort (Adapted)","Random",900,0.19952,1894
+"A1rq MSD+QuickSort (Adapted)","Random",900,0.10721,3768
+"Standard MergeSort","Random",900,0.91531,556702
+"Standard QuickSort","Random",900,0.11245,772637
+"A1m MergeSort (Adapted)","ReverseSorted",900,0.89137,297894
+"A1q TernaryQuickSort (Adapted)","ReverseSorted",900,0.05608,44389
+"A1r MSD RadixSort (Adapted)","ReverseSorted",900,0.18809,1891
+"A1rq MSD+QuickSort (Adapted)","ReverseSorted",900,0.08820,6013
+"Standard MergeSort","ReverseSorted",900,0.87055,297894
+"Standard QuickSort","ReverseSorted",900,1.80317,29174381
+"A1m MergeSort (Adapted)","AlmostSorted",900,0.74324,560484
+"A1q TernaryQuickSort (Adapted)","AlmostSorted",900,0.03843,25173
+"A1r MSD RadixSort (Adapted)","AlmostSorted",900,0.13698,1906
+"A1rq MSD+QuickSort (Adapted)","AlmostSorted",900,0.07402,4021
+"Standard MergeSort","AlmostSorted",900,0.87068,560484
+"Standard QuickSort","AlmostSorted",900,0.18393,2373522
+"A1m MergeSort (Adapted)","CommonPrefix",900,0.85710,590217
+"A1q TernaryQuickSort (Adapted)","CommonPrefix",900,0.02582,13513
+"A1r MSD RadixSort (Adapted)","CommonPrefix",900,0.25662,6400
+"A1rq MSD+QuickSort (Adapted)","CommonPrefix",900,0.19393,8276
+"Standard MergeSort","CommonPrefix",900,0.85377,590217
+"Standard QuickSort","CommonPrefix",900,0.10173,734520
+"A1m MergeSort (Adapted)","Random",1000,0.96427,635997
+"A1q TernaryQuickSort (Adapted)","Random",1000,0.02398,10331
+"A1r MSD RadixSort (Adapted)","Random",1000,0.17283,2122
+"A1rq MSD+QuickSort (Adapted)","Random",1000,0.08890,4230
+"Standard MergeSort","Random",1000,0.99463,635997
+"Standard QuickSort","Random",1000,0.11173,702451
+"A1m MergeSort (Adapted)","ReverseSorted",1000,0.88015,351754
+"A1q TernaryQuickSort (Adapted)","ReverseSorted",1000,0.06300,50851
+"A1r MSD RadixSort (Adapted)","ReverseSorted",1000,0.20553,2128
+"A1rq MSD+QuickSort (Adapted)","ReverseSorted",1000,0.09359,7211
+"Standard MergeSort","ReverseSorted",1000,0.92153,351754
+"Standard QuickSort","ReverseSorted",1000,2.14233,35545867
+"A1m MergeSort (Adapted)","AlmostSorted",1000,0.85823,571264
+"A1q TernaryQuickSort (Adapted)","AlmostSorted",1000,0.03477,21700
+"A1r MSD RadixSort (Adapted)","AlmostSorted",1000,0.15462,2100
+"A1rq MSD+QuickSort (Adapted)","AlmostSorted",1000,0.07777,4673
+"Standard MergeSort","AlmostSorted",1000,0.91925,571264
+"Standard QuickSort","AlmostSorted",1000,0.19728,2496195
+"A1m MergeSort (Adapted)","CommonPrefix",1000,0.91362,675675
+"A1q TernaryQuickSort (Adapted)","CommonPrefix",1000,0.02734,15697
+"A1r MSD RadixSort (Adapted)","CommonPrefix",1000,0.30129,7134
+"A1rq MSD+QuickSort (Adapted)","CommonPrefix",1000,0.21167,9363
+"Standard MergeSort","CommonPrefix",1000,0.97685,675675
+"Standard QuickSort","CommonPrefix",1000,0.12598,772497
+"A1m MergeSort (Adapted)","Random",1100,0.98013,688015
+"A1q TernaryQuickSort (Adapted)","Random",1100,0.02720,12932
+"A1r MSD RadixSort (Adapted)","Random",1100,0.19250,2338
+"A1rq MSD+QuickSort (Adapted)","Random",1100,0.10425,4951
+"Standard MergeSort","Random",1100,0.94449,688015
+"Standard QuickSort","Random",1100,0.11867,874066
+"A1m MergeSort (Adapted)","ReverseSorted",1100,0.93871,372429
+"A1q TernaryQuickSort (Adapted)","ReverseSorted",1100,0.05937,54597
+"A1r MSD RadixSort (Adapted)","ReverseSorted",1100,0.19348,2363
+"A1rq MSD+QuickSort (Adapted)","ReverseSorted",1100,0.10088,8438
+"Standard MergeSort","ReverseSorted",1100,0.88508,372429
+"Standard QuickSort","ReverseSorted",1100,2.46441,43880605
+"A1m MergeSort (Adapted)","AlmostSorted",1100,0.87125,617200
+"A1q TernaryQuickSort (Adapted)","AlmostSorted",1100,0.04082,26751
+"A1r MSD RadixSort (Adapted)","AlmostSorted",1100,0.14767,2329
+"A1rq MSD+QuickSort (Adapted)","AlmostSorted",1100,0.08111,5421
+"Standard MergeSort","AlmostSorted",1100,0.91355,617200
+"Standard QuickSort","AlmostSorted",1100,0.16596,2042508
+"A1m MergeSort (Adapted)","CommonPrefix",1100,1.00395,680900
+"A1q TernaryQuickSort (Adapted)","CommonPrefix",1100,0.02799,16933
+"A1r MSD RadixSort (Adapted)","CommonPrefix",1100,0.31006,7822
+"A1rq MSD+QuickSort (Adapted)","CommonPrefix",1100,0.23184,10411
+"Standard MergeSort","CommonPrefix",1100,1.04987,680900
+"Standard QuickSort","CommonPrefix",1100,0.11916,833193
+"A1m MergeSort (Adapted)","Random",1200,1.11732,785674
+"A1q TernaryQuickSort (Adapted)","Random",1200,0.03182,12295
+"A1r MSD RadixSort (Adapted)","Random",1200,0.28324,2550
+"A1rq MSD+QuickSort (Adapted)","Random",1200,0.10365,5534
+"Standard MergeSort","Random",1200,1.15585,785674
+"Standard QuickSort","Random",1200,0.13204,992040
+"A1m MergeSort (Adapted)","ReverseSorted",1200,1.07463,451073
+"A1q TernaryQuickSort (Adapted)","ReverseSorted",1200,0.06888,61931
+"A1r MSD RadixSort (Adapted)","ReverseSorted",1200,0.23756,2560
+"A1rq MSD+QuickSort (Adapted)","ReverseSorted",1200,0.11498,9826
+"Standard MergeSort","ReverseSorted",1200,1.00384,451073
+"Standard QuickSort","ReverseSorted",1200,2.86563,55879802
+"A1m MergeSort (Adapted)","AlmostSorted",1200,0.97052,740371
+"A1q TernaryQuickSort (Adapted)","AlmostSorted",1200,0.04086,28105
+"A1r MSD RadixSort (Adapted)","AlmostSorted",1200,0.16483,2550
+"A1rq MSD+QuickSort (Adapted)","AlmostSorted",1200,0.09182,6051
+"Standard MergeSort","AlmostSorted",1200,1.03584,740371
+"Standard QuickSort","AlmostSorted",1200,0.34626,5244247
+"A1m MergeSort (Adapted)","CommonPrefix",1200,1.07186,790365
+"A1q TernaryQuickSort (Adapted)","CommonPrefix",1200,0.03533,18752
+"A1r MSD RadixSort (Adapted)","CommonPrefix",1200,0.38920,8597
+"A1rq MSD+QuickSort (Adapted)","CommonPrefix",1200,0.24334,11598
+"Standard MergeSort","CommonPrefix",1200,1.15047,790365
+"Standard QuickSort","CommonPrefix",1200,0.12767,1014235
+"A1m MergeSort (Adapted)","Random",1300,1.22357,869269
+"A1q TernaryQuickSort (Adapted)","Random",1300,0.03394,14696
+"A1r MSD RadixSort (Adapted)","Random",1300,0.24368,2764
+"A1rq MSD+QuickSort (Adapted)","Random",1300,0.14094,6142
+"Standard MergeSort","Random",1300,1.19923,869269
+"Standard QuickSort","Random",1300,0.13583,1072994
+"A1m MergeSort (Adapted)","ReverseSorted",1300,1.10679,458137
+"A1q TernaryQuickSort (Adapted)","ReverseSorted",1300,0.07598,66799
+"A1r MSD RadixSort (Adapted)","ReverseSorted",1300,0.28321,2785
+"A1rq MSD+QuickSort (Adapted)","ReverseSorted",1300,0.12932,11148
+"Standard MergeSort","ReverseSorted",1300,1.12182,458137
+"Standard QuickSort","ReverseSorted",1300,3.39685,63430028
+"A1m MergeSort (Adapted)","AlmostSorted",1300,1.17719,838251
+"A1q TernaryQuickSort (Adapted)","AlmostSorted",1300,0.05375,33525
+"A1r MSD RadixSort (Adapted)","AlmostSorted",1300,0.20158,2788
+"A1rq MSD+QuickSort (Adapted)","AlmostSorted",1300,0.10453,6829
+"Standard MergeSort","AlmostSorted",1300,1.24848,838251
+"Standard QuickSort","AlmostSorted",1300,0.29834,3856585
+"A1m MergeSort (Adapted)","CommonPrefix",1300,1.15097,877247
+"A1q TernaryQuickSort (Adapted)","CommonPrefix",1300,0.04305,20137
+"A1r MSD RadixSort (Adapted)","CommonPrefix",1300,0.39247,9296
+"A1rq MSD+QuickSort (Adapted)","CommonPrefix",1300,0.24813,12666
+"Standard MergeSort","CommonPrefix",1300,1.18773,877247
+"Standard QuickSort","CommonPrefix",1300,0.14291,1251665
+"A1m MergeSort (Adapted)","Random",1400,1.32533,996905
+"A1q TernaryQuickSort (Adapted)","Random",1400,0.04373,15544
+"A1r MSD RadixSort (Adapted)","Random",1400,0.26684,3029
+"A1rq MSD+QuickSort (Adapted)","Random",1400,0.13263,6737
+"Standard MergeSort","Random",1400,1.31250,996905
+"Standard QuickSort","Random",1400,0.16036,1223688
+"A1m MergeSort (Adapted)","ReverseSorted",1400,1.28309,500082
+"A1q TernaryQuickSort (Adapted)","ReverseSorted",1400,0.09840,70866
+"A1r MSD RadixSort (Adapted)","ReverseSorted",1400,0.33195,2992
+"A1rq MSD+QuickSort (Adapted)","ReverseSorted",1400,0.14031,12979
+"Standard MergeSort","ReverseSorted",1400,1.25256,500082
+"Standard QuickSort","ReverseSorted",1400,4.08790,73036402
+"A1m MergeSort (Adapted)","AlmostSorted",1400,1.24358,871027
+"A1q TernaryQuickSort (Adapted)","AlmostSorted",1400,0.04883,32526
+"A1r MSD RadixSort (Adapted)","AlmostSorted",1400,0.19133,2983
+"A1rq MSD+QuickSort (Adapted)","AlmostSorted",1400,0.10898,7526
+"Standard MergeSort","AlmostSorted",1400,1.20429,871027
+"Standard QuickSort","AlmostSorted",1400,0.40478,6120007
+"A1m MergeSort (Adapted)","CommonPrefix",1400,1.34084,1016412
+"A1q TernaryQuickSort (Adapted)","CommonPrefix",1400,0.03897,23270
+"A1r MSD RadixSort (Adapted)","CommonPrefix",1400,0.39282,10032
+"A1rq MSD+QuickSort (Adapted)","CommonPrefix",1400,0.33885,13676
+"Standard MergeSort","CommonPrefix",1400,1.32748,1016412
+"Standard QuickSort","CommonPrefix",1400,0.15950,1264225
+"A1m MergeSort (Adapted)","Random",1500,1.42522,1047798
+"A1q TernaryQuickSort (Adapted)","Random",1500,0.04225,15691
+"A1r MSD RadixSort (Adapted)","Random",1500,0.31908,3263
+"A1rq MSD+QuickSort (Adapted)","Random",1500,0.15262,7481
+"Standard MergeSort","Random",1500,1.47031,1047798
+"Standard QuickSort","Random",1500,0.18726,1421592
+"A1m MergeSort (Adapted)","ReverseSorted",1500,1.35502,509587
+"A1q TernaryQuickSort (Adapted)","ReverseSorted",1500,0.11470,78931
+"A1r MSD RadixSort (Adapted)","ReverseSorted",1500,0.32414,3254
+"A1rq MSD+QuickSort (Adapted)","ReverseSorted",1500,0.15468,14546
+"Standard MergeSort","ReverseSorted",1500,1.36662,509587
+"Standard QuickSort","ReverseSorted",1500,4.81865,83840602
+"A1m MergeSort (Adapted)","AlmostSorted",1500,1.42898,946863
+"A1q TernaryQuickSort (Adapted)","AlmostSorted",1500,0.06869,41045
+"A1r MSD RadixSort (Adapted)","AlmostSorted",1500,0.23121,3240
+"A1rq MSD+QuickSort (Adapted)","AlmostSorted",1500,0.12409,8387
+"Standard MergeSort","AlmostSorted",1500,1.37390,946863
+"Standard QuickSort","AlmostSorted",1500,0.26336,3003347
+"A1m MergeSort (Adapted)","CommonPrefix",1500,1.44792,1064448
+"A1q TernaryQuickSort (Adapted)","CommonPrefix",1500,0.05081,23712
+"A1r MSD RadixSort (Adapted)","CommonPrefix",1500,0.49258,10748
+"A1rq MSD+QuickSort (Adapted)","CommonPrefix",1500,0.31026,14993
+"Standard MergeSort","CommonPrefix",1500,1.44709,1064448
+"Standard QuickSort","CommonPrefix",1500,0.17476,1160754
+"A1m MergeSort (Adapted)","Random",1600,1.59734,1093201
+"A1q TernaryQuickSort (Adapted)","Random",1600,0.04437,17457
+"A1r MSD RadixSort (Adapted)","Random",1600,0.31142,3544
+"A1rq MSD+QuickSort (Adapted)","Random",1600,0.16979,7971
+"Standard MergeSort","Random",1600,1.59695,1093201
+"Standard QuickSort","Random",1600,0.20478,1492592
+"A1m MergeSort (Adapted)","ReverseSorted",1600,1.37591,597306
+"A1q TernaryQuickSort (Adapted)","ReverseSorted",1600,0.11328,83640
+"A1r MSD RadixSort (Adapted)","ReverseSorted",1600,0.33176,3480
+"A1rq MSD+QuickSort (Adapted)","ReverseSorted",1600,0.17033,16199
+"Standard MergeSort","ReverseSorted",1600,1.37613,597306
+"Standard QuickSort","ReverseSorted",1600,5.31064,94066396
+"A1m MergeSort (Adapted)","AlmostSorted",1600,1.45932,948169
+"A1q TernaryQuickSort (Adapted)","AlmostSorted",1600,0.07405,44258
+"A1r MSD RadixSort (Adapted)","AlmostSorted",1600,0.25360,3512
+"A1rq MSD+QuickSort (Adapted)","AlmostSorted",1600,0.13823,8874
+"Standard MergeSort","AlmostSorted",1600,1.42911,948169
+"Standard QuickSort","AlmostSorted",1600,0.24983,3039111
+"A1m MergeSort (Adapted)","CommonPrefix",1600,1.61187,1134557
+"A1q TernaryQuickSort (Adapted)","CommonPrefix",1600,0.04907,25236
+"A1r MSD RadixSort (Adapted)","CommonPrefix",1600,0.52786,11483
+"A1rq MSD+QuickSort (Adapted)","CommonPrefix",1600,0.38961,16181
+"Standard MergeSort","CommonPrefix",1600,1.60439,1134557
+"Standard QuickSort","CommonPrefix",1600,0.23482,1323901
+"A1m MergeSort (Adapted)","Random",1700,1.74413,1176874
+"A1q TernaryQuickSort (Adapted)","Random",1700,0.04459,18434
+"A1r MSD RadixSort (Adapted)","Random",1700,0.38504,3750
+"A1rq MSD+QuickSort (Adapted)","Random",1700,0.17818,8858
+"Standard MergeSort","Random",1700,1.69706,1176874
+"Standard QuickSort","Random",1700,0.22123,1526400
+"A1m MergeSort (Adapted)","ReverseSorted",1700,1.51039,642397
+"A1q TernaryQuickSort (Adapted)","ReverseSorted",1700,0.12472,89493
+"A1r MSD RadixSort (Adapted)","ReverseSorted",1700,0.34027,3697
+"A1rq MSD+QuickSort (Adapted)","ReverseSorted",1700,0.17323,18087
+"Standard MergeSort","ReverseSorted",1700,1.57100,642397
+"Standard QuickSort","ReverseSorted",1700,5.97159,105905550
+"A1m MergeSort (Adapted)","AlmostSorted",1700,1.51519,1085415
+"A1q TernaryQuickSort (Adapted)","AlmostSorted",1700,0.10242,60198
+"A1r MSD RadixSort (Adapted)","AlmostSorted",1700,0.26990,3725
+"A1rq MSD+QuickSort (Adapted)","AlmostSorted",1700,0.15756,9811
+"Standard MergeSort","AlmostSorted",1700,1.45747,1085415
+"Standard QuickSort","AlmostSorted",1700,0.27843,3170813
+"A1m MergeSort (Adapted)","CommonPrefix",1700,1.68204,1181222
+"A1q TernaryQuickSort (Adapted)","CommonPrefix",1700,0.05074,27207
+"A1r MSD RadixSort (Adapted)","CommonPrefix",1700,0.51831,12231
+"A1rq MSD+QuickSort (Adapted)","CommonPrefix",1700,0.37785,17214
+"Standard MergeSort","CommonPrefix",1700,1.70619,1181222
+"Standard QuickSort","CommonPrefix",1700,0.22077,1461479
+"A1m MergeSort (Adapted)","Random",1800,1.80557,1239755
+"A1q TernaryQuickSort (Adapted)","Random",1800,0.05407,21156
+"A1r MSD RadixSort (Adapted)","Random",1800,0.38326,3926
+"A1rq MSD+QuickSort (Adapted)","Random",1800,0.20237,9614
+"Standard MergeSort","Random",1800,1.82188,1239755
+"Standard QuickSort","Random",1800,0.22505,1519592
+"A1m MergeSort (Adapted)","ReverseSorted",1800,1.63582,710322
+"A1q TernaryQuickSort (Adapted)","ReverseSorted",1800,0.13602,94718
+"A1r MSD RadixSort (Adapted)","ReverseSorted",1800,0.38212,3984
+"A1rq MSD+QuickSort (Adapted)","ReverseSorted",1800,0.20375,19732
+"Standard MergeSort","ReverseSorted",1800,1.58760,710322
+"Standard QuickSort","ReverseSorted",1800,6.68442,119048978
+"A1m MergeSort (Adapted)","AlmostSorted",1800,1.68378,1179925
+"A1q TernaryQuickSort (Adapted)","AlmostSorted",1800,0.10308,59635
+"A1r MSD RadixSort (Adapted)","AlmostSorted",1800,0.29988,3951
+"A1rq MSD+QuickSort (Adapted)","AlmostSorted",1800,0.15480,10672
+"Standard MergeSort","AlmostSorted",1800,1.66475,1179925
+"Standard QuickSort","AlmostSorted",1800,0.34528,4620199
+"A1m MergeSort (Adapted)","CommonPrefix",1800,1.68424,1269173
+"A1q TernaryQuickSort (Adapted)","CommonPrefix",1800,0.06154,29269
+"A1r MSD RadixSort (Adapted)","CommonPrefix",1800,0.53020,12985
+"A1rq MSD+QuickSort (Adapted)","CommonPrefix",1800,0.36467,18502
+"Standard MergeSort","CommonPrefix",1800,1.67952,1269173
+"Standard QuickSort","CommonPrefix",1800,0.28254,1460216
+"A1m MergeSort (Adapted)","Random",1900,1.92759,1383315
+"A1q TernaryQuickSort (Adapted)","Random",1900,0.05757,22930
+"A1r MSD RadixSort (Adapted)","Random",1900,0.44468,4191
+"A1rq MSD+QuickSort (Adapted)","Random",1900,0.20077,10122
+"Standard MergeSort","Random",1900,1.93182,1383315
+"Standard QuickSort","Random",1900,0.23572,1708028
+"A1m MergeSort (Adapted)","ReverseSorted",1900,1.76109,795218
+"A1q TernaryQuickSort (Adapted)","ReverseSorted",1900,0.14704,98975
+"A1r MSD RadixSort (Adapted)","ReverseSorted",1900,0.42340,4190
+"A1rq MSD+QuickSort (Adapted)","ReverseSorted",1900,0.21142,21862
+"Standard MergeSort","ReverseSorted",1900,1.80918,795218
+"Standard QuickSort","ReverseSorted",1900,7.98484,132710667
+"A1m MergeSort (Adapted)","AlmostSorted",1900,1.78347,1219993
+"A1q TernaryQuickSort (Adapted)","AlmostSorted",1900,0.09278,53320
+"A1r MSD RadixSort (Adapted)","AlmostSorted",1900,0.32366,4237
+"A1rq MSD+QuickSort (Adapted)","AlmostSorted",1900,0.18085,11593
+"Standard MergeSort","AlmostSorted",1900,1.83558,1219993
+"Standard QuickSort","AlmostSorted",1900,0.33667,3869311
+"A1m MergeSort (Adapted)","CommonPrefix",1900,1.79402,1384362
+"A1q TernaryQuickSort (Adapted)","CommonPrefix",1900,0.06687,30765
+"A1r MSD RadixSort (Adapted)","CommonPrefix",1900,0.56396,13662
+"A1rq MSD+QuickSort (Adapted)","CommonPrefix",1900,0.37953,19533
+"Standard MergeSort","CommonPrefix",1900,1.83000,1384362
+"Standard QuickSort","CommonPrefix",1900,0.23726,1798395
+"A1m MergeSort (Adapted)","Random",2000,1.97853,1464918
+"A1q TernaryQuickSort (Adapted)","Random",2000,0.06298,22558
+"A1r MSD RadixSort (Adapted)","Random",2000,0.40422,4463
+"A1rq MSD+QuickSort (Adapted)","Random",2000,0.21432,10836
+"Standard MergeSort","Random",2000,1.95507,1464918
+"Standard QuickSort","Random",2000,0.24958,1839554
+"A1m MergeSort (Adapted)","ReverseSorted",2000,1.71896,819115
+"A1q TernaryQuickSort (Adapted)","ReverseSorted",2000,0.14739,104846
+"A1r MSD RadixSort (Adapted)","ReverseSorted",2000,0.41968,4470
+"A1rq MSD+QuickSort (Adapted)","ReverseSorted",2000,0.21653,23653
+"Standard MergeSort","ReverseSorted",2000,1.73832,819115
+"Standard QuickSort","ReverseSorted",2000,8.06979,148206736
+"A1m MergeSort (Adapted)","AlmostSorted",2000,1.78427,1221291
+"A1q TernaryQuickSort (Adapted)","AlmostSorted",2000,0.10803,63556
+"A1r MSD RadixSort (Adapted)","AlmostSorted",2000,0.34217,4487
+"A1rq MSD+QuickSort (Adapted)","AlmostSorted",2000,0.16759,12313
+"Standard MergeSort","AlmostSorted",2000,1.77421,1221291
+"Standard QuickSort","AlmostSorted",2000,0.39037,5881037
+"A1m MergeSort (Adapted)","CommonPrefix",2000,1.82035,1391184
+"A1q TernaryQuickSort (Adapted)","CommonPrefix",2000,0.07348,33020
+"A1r MSD RadixSort (Adapted)","CommonPrefix",2000,0.62118,14474
+"A1rq MSD+QuickSort (Adapted)","CommonPrefix",2000,0.43982,21078
+"Standard MergeSort","CommonPrefix",2000,1.85478,1391184
+"Standard QuickSort","CommonPrefix",2000,0.26048,1992622
+"A1m MergeSort (Adapted)","Random",2100,1.96803,1514719
+"A1q TernaryQuickSort (Adapted)","Random",2100,0.06676,24930
+"A1r MSD RadixSort (Adapted)","Random",2100,0.42796,4702
+"A1rq MSD+QuickSort (Adapted)","Random",2100,0.21351,11535
+"Standard MergeSort","Random",2100,1.99574,1514719
+"Standard QuickSort","Random",2100,0.30347,2059236
+"A1m MergeSort (Adapted)","ReverseSorted",2100,1.89469,892768
+"A1q TernaryQuickSort (Adapted)","ReverseSorted",2100,0.16569,111039
+"A1r MSD RadixSort (Adapted)","ReverseSorted",2100,0.42642,4637
+"A1rq MSD+QuickSort (Adapted)","ReverseSorted",2100,0.22010,26110
+"Standard MergeSort","ReverseSorted",2100,1.90051,892768
+"Standard QuickSort","ReverseSorted",2100,8.81840,163524821
+"A1m MergeSort (Adapted)","AlmostSorted",2100,1.92160,1343298
+"A1q TernaryQuickSort (Adapted)","AlmostSorted",2100,0.10014,56717
+"A1r MSD RadixSort (Adapted)","AlmostSorted",2100,0.35999,4691
+"A1rq MSD+QuickSort (Adapted)","AlmostSorted",2100,0.18923,13083
+"Standard MergeSort","AlmostSorted",2100,1.97834,1343298
+"Standard QuickSort","AlmostSorted",2100,0.47737,7258719
+"A1m MergeSort (Adapted)","CommonPrefix",2100,2.10838,1506820
+"A1q TernaryQuickSort (Adapted)","CommonPrefix",2100,0.07737,34673
+"A1r MSD RadixSort (Adapted)","CommonPrefix",2100,0.70197,15218
+"A1rq MSD+QuickSort (Adapted)","CommonPrefix",2100,0.46216,22205
+"Standard MergeSort","CommonPrefix",2100,2.11437,1506820
+"Standard QuickSort","CommonPrefix",2100,0.28367,2107166
+"A1m MergeSort (Adapted)","Random",2200,2.17502,1641406
+"A1q TernaryQuickSort (Adapted)","Random",2200,0.07902,28139
+"A1r MSD RadixSort (Adapted)","Random",2200,0.47508,4911
+"A1rq MSD+QuickSort (Adapted)","Random",2200,0.26535,12335
+"Standard MergeSort","Random",2200,2.18371,1641406
+"Standard QuickSort","Random",2200,0.29916,2083507
+"A1m MergeSort (Adapted)","ReverseSorted",2200,1.94668,892223
+"A1q TernaryQuickSort (Adapted)","ReverseSorted",2200,0.16340,116367
+"A1r MSD RadixSort (Adapted)","ReverseSorted",2200,0.46475,4967
+"A1rq MSD+QuickSort (Adapted)","ReverseSorted",2200,0.23173,27988
+"Standard MergeSort","ReverseSorted",2200,2.00622,892223
+"Standard QuickSort","ReverseSorted",2200,9.81568,182567711
+"A1m MergeSort (Adapted)","AlmostSorted",2200,1.99859,1490657
+"A1q TernaryQuickSort (Adapted)","AlmostSorted",2200,0.11134,66929
+"A1r MSD RadixSort (Adapted)","AlmostSorted",2200,0.36716,4896
+"A1rq MSD+QuickSort (Adapted)","AlmostSorted",2200,0.23423,13923
+"Standard MergeSort","AlmostSorted",2200,1.85017,1490657
+"Standard QuickSort","AlmostSorted",2200,0.54759,8501548
+"A1m MergeSort (Adapted)","CommonPrefix",2200,2.05588,1612594
+"A1q TernaryQuickSort (Adapted)","CommonPrefix",2200,0.08753,37320
+"A1r MSD RadixSort (Adapted)","CommonPrefix",2200,0.68204,15977
+"A1rq MSD+QuickSort (Adapted)","CommonPrefix",2200,0.47312,23100
+"Standard MergeSort","CommonPrefix",2200,2.28092,1612594
+"Standard QuickSort","CommonPrefix",2200,0.31526,2227404
+"A1m MergeSort (Adapted)","Random",2300,2.58182,1691374
+"A1q TernaryQuickSort (Adapted)","Random",2300,0.07878,27317
+"A1r MSD RadixSort (Adapted)","Random",2300,0.63053,5168
+"A1rq MSD+QuickSort (Adapted)","Random",2300,0.29807,12986
+"Standard MergeSort","Random",2300,2.83271,1691374
+"Standard QuickSort","Random",2300,0.29552,2128465
+"A1m MergeSort (Adapted)","ReverseSorted",2300,2.11403,933335
+"A1q TernaryQuickSort (Adapted)","ReverseSorted",2300,0.18863,125824
+"A1r MSD RadixSort (Adapted)","ReverseSorted",2300,0.52495,5205
+"A1rq MSD+QuickSort (Adapted)","ReverseSorted",2300,0.24817,30654
+"Standard MergeSort","ReverseSorted",2300,2.11748,933335
+"Standard QuickSort","ReverseSorted",2300,10.75698,197328677
+"A1m MergeSort (Adapted)","AlmostSorted",2300,2.11169,1550096
+"A1q TernaryQuickSort (Adapted)","AlmostSorted",2300,0.10207,66258
+"A1r MSD RadixSort (Adapted)","AlmostSorted",2300,0.36086,5169
+"A1rq MSD+QuickSort (Adapted)","AlmostSorted",2300,0.20203,14583
+"Standard MergeSort","AlmostSorted",2300,2.04807,1550096
+"Standard QuickSort","AlmostSorted",2300,0.75123,11698042
+"A1m MergeSort (Adapted)","CommonPrefix",2300,2.26997,1660605
+"A1q TernaryQuickSort (Adapted)","CommonPrefix",2300,0.08898,39302
+"A1r MSD RadixSort (Adapted)","CommonPrefix",2300,0.69155,16705
+"A1rq MSD+QuickSort (Adapted)","CommonPrefix",2300,0.47362,24296
+"Standard MergeSort","CommonPrefix",2300,2.22002,1660605
+"Standard QuickSort","CommonPrefix",2300,0.31441,2188403
+"A1m MergeSort (Adapted)","Random",2400,2.33230,1732430
+"A1q TernaryQuickSort (Adapted)","Random",2400,0.08818,31833
+"A1r MSD RadixSort (Adapted)","Random",2400,0.51123,5396
+"A1rq MSD+QuickSort (Adapted)","Random",2400,0.25229,13665
+"Standard MergeSort","Random",2400,2.36893,1732430
+"Standard QuickSort","Random",2400,0.32402,1906280
+"A1m MergeSort (Adapted)","ReverseSorted",2400,2.15932,935179
+"A1q TernaryQuickSort (Adapted)","ReverseSorted",2400,0.20242,131264
+"A1r MSD RadixSort (Adapted)","ReverseSorted",2400,0.53772,5419
+"A1rq MSD+QuickSort (Adapted)","ReverseSorted",2400,0.24793,33101
+"Standard MergeSort","ReverseSorted",2400,2.20975,935179
+"Standard QuickSort","ReverseSorted",2400,11.71913,216765973
+"A1m MergeSort (Adapted)","AlmostSorted",2400,2.22623,1631309
+"A1q TernaryQuickSort (Adapted)","AlmostSorted",2400,0.14670,82813
+"A1r MSD RadixSort (Adapted)","AlmostSorted",2400,0.43148,5437
+"A1rq MSD+QuickSort (Adapted)","AlmostSorted",2400,0.21702,15481
+"Standard MergeSort","AlmostSorted",2400,2.23762,1631309
+"Standard QuickSort","AlmostSorted",2400,0.47445,6747734
+"A1m MergeSort (Adapted)","CommonPrefix",2400,2.27724,1741698
+"A1q TernaryQuickSort (Adapted)","CommonPrefix",2400,0.09714,40091
+"A1r MSD RadixSort (Adapted)","CommonPrefix",2400,0.72578,17394
+"A1rq MSD+QuickSort (Adapted)","CommonPrefix",2400,0.51434,25754
+"Standard MergeSort","CommonPrefix",2400,2.29516,1741698
+"Standard QuickSort","CommonPrefix",2400,0.31233,2346668
+"A1m MergeSort (Adapted)","Random",2500,2.40213,1864323
+"A1q TernaryQuickSort (Adapted)","Random",2500,0.08314,28816
+"A1r MSD RadixSort (Adapted)","Random",2500,0.54990,5681
+"A1rq MSD+QuickSort (Adapted)","Random",2500,0.25629,14532
+"Standard MergeSort","Random",2500,2.42122,1864323
+"Standard QuickSort","Random",2500,0.33042,2398067
+"A1m MergeSort (Adapted)","ReverseSorted",2500,2.23758,1050967
+"A1q TernaryQuickSort (Adapted)","ReverseSorted",2500,0.20257,136750
+"A1r MSD RadixSort (Adapted)","ReverseSorted",2500,0.54369,5672
+"A1rq MSD+QuickSort (Adapted)","ReverseSorted",2500,0.24881,34983
+"Standard MergeSort","ReverseSorted",2500,2.24473,1050967
+"Standard QuickSort","ReverseSorted",2500,19.31828,235574531
+"A1m MergeSort (Adapted)","AlmostSorted",2500,2.30758,1734990
+"A1q TernaryQuickSort (Adapted)","AlmostSorted",2500,0.12447,72872
+"A1r MSD RadixSort (Adapted)","AlmostSorted",2500,0.44938,5678
+"A1rq MSD+QuickSort (Adapted)","AlmostSorted",2500,0.22342,16538
+"Standard MergeSort","AlmostSorted",2500,2.31503,1734990
+"Standard QuickSort","AlmostSorted",2500,0.49218,5567759
+"A1m MergeSort (Adapted)","CommonPrefix",2500,2.53792,1873194
+"A1q TernaryQuickSort (Adapted)","CommonPrefix",2500,0.11102,46054
+"A1r MSD RadixSort (Adapted)","CommonPrefix",2500,0.82582,18205
+"A1rq MSD+QuickSort (Adapted)","CommonPrefix",2500,0.57534,26914
+"Standard MergeSort","CommonPrefix",2500,2.37177,1873194
+"Standard QuickSort","CommonPrefix",2500,0.31945,2107817
+"A1m MergeSort (Adapted)","Random",2600,2.60550,1999257
+"A1q TernaryQuickSort (Adapted)","Random",2600,0.07835,32018
+"A1r MSD RadixSort (Adapted)","Random",2600,0.57427,5925
+"A1rq MSD+QuickSort (Adapted)","Random",2600,0.28689,15416
+"Standard MergeSort","Random",2600,2.69607,1999257
+"Standard QuickSort","Random",2600,0.34513,2736031
+"A1m MergeSort (Adapted)","ReverseSorted",2600,2.47612,1094543
+"A1q TernaryQuickSort (Adapted)","ReverseSorted",2600,0.21593,140473
+"A1r MSD RadixSort (Adapted)","ReverseSorted",2600,0.63279,5932
+"A1rq MSD+QuickSort (Adapted)","ReverseSorted",2600,0.28035,37459
+"Standard MergeSort","ReverseSorted",2600,2.49588,1094543
+"Standard QuickSort","ReverseSorted",2600,13.79772,255309241
+"A1m MergeSort (Adapted)","AlmostSorted",2600,2.56808,1778313
+"A1q TernaryQuickSort (Adapted)","AlmostSorted",2600,0.12468,75965
+"A1r MSD RadixSort (Adapted)","AlmostSorted",2600,0.47487,5915
+"A1rq MSD+QuickSort (Adapted)","AlmostSorted",2600,0.23767,17234
+"Standard MergeSort","AlmostSorted",2600,2.45878,1778313
+"Standard QuickSort","AlmostSorted",2600,0.86339,13909527
+"A1m MergeSort (Adapted)","CommonPrefix",2600,2.63069,1945115
+"A1q TernaryQuickSort (Adapted)","CommonPrefix",2600,0.09268,47495
+"A1r MSD RadixSort (Adapted)","CommonPrefix",2600,0.84263,18898
+"A1rq MSD+QuickSort (Adapted)","CommonPrefix",2600,0.53542,28133
+"Standard MergeSort","CommonPrefix",2600,2.50477,1945115
+"Standard QuickSort","CommonPrefix",2600,0.33929,2531967
+"A1m MergeSort (Adapted)","Random",2700,2.83554,2037870
+"A1q TernaryQuickSort (Adapted)","Random",2700,0.07993,32508
+"A1r MSD RadixSort (Adapted)","Random",2700,0.63591,6159
+"A1rq MSD+QuickSort (Adapted)","Random",2700,0.28626,15986
+"Standard MergeSort","Random",2700,2.62421,2037870
+"Standard QuickSort","Random",2700,0.36146,2577872
+"A1m MergeSort (Adapted)","ReverseSorted",2700,2.43701,1075009
+"A1q TernaryQuickSort (Adapted)","ReverseSorted",2700,0.23447,150758
+"A1r MSD RadixSort (Adapted)","ReverseSorted",2700,0.68402,6235
+"A1rq MSD+QuickSort (Adapted)","ReverseSorted",2700,0.27503,39950
+"Standard MergeSort","ReverseSorted",2700,2.58279,1075009
+"Standard QuickSort","ReverseSorted",2700,14.90242,269207898
+"A1m MergeSort (Adapted)","AlmostSorted",2700,2.63852,1892248
+"A1q TernaryQuickSort (Adapted)","AlmostSorted",2700,0.16923,95244
+"A1r MSD RadixSort (Adapted)","AlmostSorted",2700,0.51482,6177
+"A1rq MSD+QuickSort (Adapted)","AlmostSorted",2700,0.25921,18225
+"Standard MergeSort","AlmostSorted",2700,2.53700,1892248
+"Standard QuickSort","AlmostSorted",2700,0.59446,7701253
+"A1m MergeSort (Adapted)","CommonPrefix",2700,2.87379,2019262
+"A1q TernaryQuickSort (Adapted)","CommonPrefix",2700,0.09599,45458
+"A1r MSD RadixSort (Adapted)","CommonPrefix",2700,0.96991,19682
+"A1rq MSD+QuickSort (Adapted)","CommonPrefix",2700,0.64945,29481
+"Standard MergeSort","CommonPrefix",2700,2.67520,2019262
+"Standard QuickSort","CommonPrefix",2700,0.37680,2672613
+"A1m MergeSort (Adapted)","Random",2800,2.95075,2135247
+"A1q TernaryQuickSort (Adapted)","Random",2800,0.09029,32143
+"A1r MSD RadixSort (Adapted)","Random",2800,0.60771,6390
+"A1rq MSD+QuickSort (Adapted)","Random",2800,0.30258,16482
+"Standard MergeSort","Random",2800,2.95796,2135247
+"Standard QuickSort","Random",2800,0.40086,2734008
+"A1m MergeSort (Adapted)","ReverseSorted",2800,2.69665,1071085
+"A1q TernaryQuickSort (Adapted)","ReverseSorted",2800,0.24957,157126
+"A1r MSD RadixSort (Adapted)","ReverseSorted",2800,0.68097,6381
+"A1rq MSD+QuickSort (Adapted)","ReverseSorted",2800,0.28177,43253
+"Standard MergeSort","ReverseSorted",2800,2.64833,1071085
+"Standard QuickSort","ReverseSorted",2800,16.37715,286080606
+"A1m MergeSort (Adapted)","AlmostSorted",2800,2.69293,1893775
+"A1q TernaryQuickSort (Adapted)","AlmostSorted",2800,0.17264,108044
+"A1r MSD RadixSort (Adapted)","AlmostSorted",2800,0.51860,6476
+"A1rq MSD+QuickSort (Adapted)","AlmostSorted",2800,0.24578,19377
+"Standard MergeSort","AlmostSorted",2800,2.73660,1893775
+"Standard QuickSort","AlmostSorted",2800,0.54788,7251301
+"A1m MergeSort (Adapted)","CommonPrefix",2800,2.95634,2081390
+"A1q TernaryQuickSort (Adapted)","CommonPrefix",2800,0.11527,48181
+"A1r MSD RadixSort (Adapted)","CommonPrefix",2800,0.96354,20456
+"A1rq MSD+QuickSort (Adapted)","CommonPrefix",2800,0.64110,30783
+"Standard MergeSort","CommonPrefix",2800,2.91966,2081390
+"Standard QuickSort","CommonPrefix",2800,0.36985,2623993
+"A1m MergeSort (Adapted)","Random",2900,3.07776,2283774
+"A1q TernaryQuickSort (Adapted)","Random",2900,0.10467,33202
+"A1r MSD RadixSort (Adapted)","Random",2900,0.69953,6666
+"A1rq MSD+QuickSort (Adapted)","Random",2900,0.32588,17678
+"Standard MergeSort","Random",2900,2.99907,2283774
+"Standard QuickSort","Random",2900,0.40085,3046874
+"A1m MergeSort (Adapted)","ReverseSorted",2900,2.69870,1240670
+"A1q TernaryQuickSort (Adapted)","ReverseSorted",2900,0.24580,162040
+"A1r MSD RadixSort (Adapted)","ReverseSorted",2900,0.68112,6651
+"A1rq MSD+QuickSort (Adapted)","ReverseSorted",2900,0.33171,45748
+"Standard MergeSort","ReverseSorted",2900,2.72625,1240670
+"Standard QuickSort","ReverseSorted",2900,17.15503,313827060
+"A1m MergeSort (Adapted)","AlmostSorted",2900,2.85973,2010521
+"A1q TernaryQuickSort (Adapted)","AlmostSorted",2900,0.18118,107001
+"A1r MSD RadixSort (Adapted)","AlmostSorted",2900,0.58104,6654
+"A1rq MSD+QuickSort (Adapted)","AlmostSorted",2900,0.26236,20315
+"Standard MergeSort","AlmostSorted",2900,2.78572,2010521
+"Standard QuickSort","AlmostSorted",2900,0.53930,6560696
+"A1m MergeSort (Adapted)","CommonPrefix",2900,3.01725,2192883
+"A1q TernaryQuickSort (Adapted)","CommonPrefix",2900,0.12597,53239
+"A1r MSD RadixSort (Adapted)","CommonPrefix",2900,1.00584,21155
+"A1rq MSD+QuickSort (Adapted)","CommonPrefix",2900,0.67129,32039
+"Standard MergeSort","CommonPrefix",2900,3.03749,2192883
+"Standard QuickSort","CommonPrefix",2900,0.42454,2620288
+"A1m MergeSort (Adapted)","Random",3000,3.23745,2297472
+"A1q TernaryQuickSort (Adapted)","Random",3000,0.10468,35743
+"A1r MSD RadixSort (Adapted)","Random",3000,0.72375,6895
+"A1rq MSD+QuickSort (Adapted)","Random",3000,0.32553,18176
+"Standard MergeSort","Random",3000,3.10185,2297472
+"Standard QuickSort","Random",3000,0.43846,2928295
+"A1m MergeSort (Adapted)","ReverseSorted",3000,2.96259,1232845
+"A1q TernaryQuickSort (Adapted)","ReverseSorted",3000,0.26015,165196
+"A1r MSD RadixSort (Adapted)","ReverseSorted",3000,0.72652,7028
+"A1rq MSD+QuickSort (Adapted)","ReverseSorted",3000,0.33754,47664
+"Standard MergeSort","ReverseSorted",3000,2.93446,1232845
+"Standard QuickSort","ReverseSorted",3000,18.55135,335636333
+"A1m MergeSort (Adapted)","AlmostSorted",3000,2.93478,2047883
+"A1q TernaryQuickSort (Adapted)","AlmostSorted",3000,0.19702,111346
+"A1r MSD RadixSort (Adapted)","AlmostSorted",3000,0.60054,6981
+"A1rq MSD+QuickSort (Adapted)","AlmostSorted",3000,0.27643,21293
+"Standard MergeSort","AlmostSorted",3000,2.92177,2047883
+"Standard QuickSort","AlmostSorted",3000,0.67655,8895121
+"A1m MergeSort (Adapted)","CommonPrefix",3000,3.06298,2312010
+"A1q TernaryQuickSort (Adapted)","CommonPrefix",3000,0.12662,50135
+"A1r MSD RadixSort (Adapted)","CommonPrefix",3000,1.08722,22002
+"A1rq MSD+QuickSort (Adapted)","CommonPrefix",3000,0.70766,33562
+"Standard MergeSort","CommonPrefix",3000,3.16832,2312010
+"Standard QuickSort","CommonPrefix",3000,0.44113,3162624
